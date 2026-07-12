@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://opendata.cityofnewyork.us/
 common:
+  - type: DomainSecurity
+    url: security/city-new-york-open-data-domain-security.yml
   - type: Website
     url: https://opendata.cityofnewyork.us/
   - type: PublicAPIsListing
