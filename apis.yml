@@ -39,7 +39,6 @@ apis:
   - name: City, New York Open Data
     description: "New York (US) City Open Data"
     humanURL: https://opendata.cityofnewyork.us/
-    baseURL: https://opendata.cityofnewyork.us/
     tags:
       - Government
     properties:
